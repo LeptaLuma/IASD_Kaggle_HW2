@@ -1,0 +1,133 @@
+﻿BCOM_Energy_Sharpe_100d, Energy sector Sharpe ratio over 100 days
+BCOM_Energy_Sharpe_120d, Energy sector Sharpe ratio over 120 days
+BCOM_Energy_Sharpe_250d, Energy sector Sharpe ratio over 250 days
+BCOM_Ind_Metals_Sharpe_100d, Industrial metals Sharpe ratio over 100 days
+BCOM_Ind_Metals_Sharpe_120d, Industrial metals Sharpe ratio over 120 days
+BCOM_Ind_Metals_Sharpe_250d, Industrial metals Sharpe ratio over 250 days
+FX_EM_Basket_Sharpe_100d, Emerging market FX basket Sharpe ratio over 100 days
+FX_EM_Basket_Sharpe_120d, Emerging market FX basket Sharpe ratio over 120 days
+FX_EM_Basket_Sharpe_250d, Emerging market FX basket Sharpe ratio over 250 days
+Dollar_Index_Sharpe_100d, Dollar index Sharpe ratio over 100 days
+Dollar_Index_Sharpe_120d, Dollar index Sharpe ratio over 120 days
+Dollar_Index_Sharpe_250d, Dollar index Sharpe ratio over 250 days
+SP_500_Sharpe_100d, S&P 500 Sharpe ratio over 100 days
+SP_500_Sharpe_120d, S&P 500 Sharpe ratio over 120 days
+SP_500_Sharpe_250d, S&P 500 Sharpe ratio over 250 days
+Nasdaq_100_Sharpe_100d, Nasdaq 100 Sharpe ratio over 100 days
+Nasdaq_100_Sharpe_120d, Nasdaq 100 Sharpe ratio over 120 days
+Nasdaq_100_Sharpe_250d, Nasdaq 100 Sharpe ratio over 250 days
+Russel_2000_Sharpe_100d, Russell 2000 Sharpe ratio over 100 days
+Russel_2000_Sharpe_120d, Russell 2000 Sharpe ratio over 120 days
+Russel_2000_Sharpe_250d, Russell 2000 Sharpe ratio over 250 days
+Euro_Stoxx_50_Sharpe_100d, Euro Stoxx 50 Sharpe ratio over 100 days
+Euro_Stoxx_50_Sharpe_120d, Euro Stoxx 50 Sharpe ratio over 120 days
+Euro_Stoxx_50_Sharpe_250d, Euro Stoxx 50 Sharpe ratio over 250 days
+FTSE_100_Sharpe_100d, FTSE 100 Sharpe ratio over 100 days
+FTSE_100_Sharpe_120d, FTSE 100 Sharpe ratio over 120 days
+FTSE_100_Sharpe_250d, FTSE 100 Sharpe ratio over 250 days
+Nikkei_225_Sharpe_100d, Nikkei 225 Sharpe ratio over 100 days
+Nikkei_225_Sharpe_120d, Nikkei 225 Sharpe ratio over 120 days
+Nikkei_225_Sharpe_250d, Nikkei 225 Sharpe ratio over 250 days
+MSCI_EM_Sharpe_100d, MSCI Emerging Markets Sharpe ratio over 100 days
+MSCI_EM_Sharpe_120d, MSCI Emerging Markets Sharpe ratio over 120 days
+MSCI_EM_Sharpe_250d, MSCI Emerging Markets Sharpe ratio over 250 days
+SP_500_Vol_10d, S&P 500 volatility over 10 days
+SP_500_Vol_20d, S&P 500 volatility over 20 days
+SP_500_Vol_30d, S&P 500 volatility over 30 days
+SP_500_Distance_to_MA_250d, S&P 500 distance from 250-day moving average.,37. SP_500_Distance_to_MA_250d
+SP_500_Distance_to_MA_500d, S&P 500 distance from 500-day moving average.,38. SP_500_Distance_to_MA_500d
+SP_500_Pct_Chg_20d, S&P 500 percentage change over 20 days39. SP_500_Pct_Chg_20d
+SP_500_Pct_Chg_120d, S&P 500 percentage change over 120 days40. SP_500_Pct_Chg_120d
+SP_500_Pct_Chg_250d, S&P 500 percentage change over 250 days41. SP_500_Pct_Chg_250d
+Nasdaq_100_Pct_Chg_20d, Nasdaq 100 percentage change over 20 days42. Nasdaq_100_Pct_Chg_20d
+Nasdaq_100_Pct_Chg_120d, Nasdaq 100 percentage change over 120 days43. Nasdaq_100_Pct_Chg_120d
+Nasdaq_100_Pct_Chg_250d, Nasdaq 100 percentage change over 250 days44. Nasdaq_100_Pct_Chg_250d
+Russel_2000_Pct_Chg_20d, Russell 2000 percentage change over 20 days45. Russel_2000_Pct_Chg_20d
+Russel_2000_Pct_Chg_120d, Russell 2000 percentage change over 120 days46. Russel_2000_Pct_Chg_120d
+Russel_2000_Pct_Chg_250d, Russell 2000 percentage change over 250 days47. Russel_2000_Pct_Chg_250d
+Euro_Stoxx_50_Pct_Chg_20d, Euro Stoxx 50 percentage change over 20 days48. Euro_Stoxx_50_Pct_Chg_20d
+Euro_Stoxx_50_Pct_Chg_120d, Euro Stoxx 50 percentage change over 120 days49. Euro_Stoxx_50_Pct_Chg_120d
+Euro_Stoxx_50_Pct_Chg_250d, Euro Stoxx 50 percentage change over 250 days50. Euro_Stoxx_50_Pct_Chg_250d
+FTSE_100_Pct_Chg_20d, FTSE 100 percentage change over 20 days51. FTSE_100_Pct_Chg_20d
+FTSE_100_Pct_Chg_120d, FTSE 100 percentage change over 120 days52. FTSE_100_Pct_Chg_120d
+FTSE_100_Pct_Chg_250d, FTSE 100 percentage change over 250 days53. FTSE_100_Pct_Chg_250d
+Nikkei_225_Pct_Chg_20d, Nikkei 225 percentage change over 20 days54. Nikkei_225_Pct_Chg_20d
+Nikkei_225_Pct_Chg_120d, Nikkei 225 percentage change over 120 days55. Nikkei_225_Pct_Chg_120d
+Nikkei_225_Pct_Chg_250d, Nikkei 225 percentage change over 250 days56. Nikkei_225_Pct_Chg_250d
+MSCI_EM_Pct_Chg_20d, MSCI Emerging Markets percentage change over 20 days57. MSCI_EM_Pct_Chg_20d
+MSCI_EM_Pct_Chg_120d, MSCI Emerging Markets percentage change over 120 days58. MSCI_EM_Pct_Chg_120d
+MSCI_EM_Pct_Chg_250d, MSCI Emerging Markets percentage change over 250 days59. MSCI_EM_Pct_Chg_250d
+US_10Y_Chg_100d, US 10-year Treasury yield change over 100 days60. US_10Y_Chg_100d
+US_10Y_Chg_120d, US 10-year Treasury yield change over 120 days61. US_10Y_Chg_120d
+US_10Y_Chg_250d, US 10-year Treasury yield change over 250 days62. US_10Y_Chg_250d
+US_2Y_Chg_100d, US 2-year Treasury yield change over 100 days63. US_2Y_Chg_100d
+US_2Y_Chg_120d, US 2-year Treasury yield change over 120 days64. US_2Y_Chg_120d
+US_2Y_Chg_250d, US 2-year Treasury yield change over 250 days65. US_2Y_Chg_250d
+US_Real_10Y_Chg_100d, US real 10-year Treasury yield change over 100 days66. US_Real_10Y_Chg_100d
+US_Real_10Y_Chg_120d, US real 10-year Treasury yield change over 120 days67. US_Real_10Y_Chg_120d
+US_Real_10Y_Chg_250d, US real 10-year Treasury yield change over 250 days68. US_Real_10Y_Chg_250d
+US_BE_10Y_Chg_100d, US 10-year breakeven inflation rate change over 100 days69. US_BE_10Y_Chg_100d
+US_BE_10Y_Chg_120d, US 10-year breakeven inflation rate change over 120 days70. US_BE_10Y_Chg_120d
+US_BE_10Y_Chg_250d, US 10-year breakeven inflation rate change over 250 days71. US_BE_10Y_Chg_250d
+US_Libor_Chg_100d, US Libor rate change over 100 days72. US_Libor_Chg_100d
+US_Libor_Chg_120d, US Libor rate change over 120 days73. US_Libor_Chg_120d
+US_Libor_Chg_250d, US Libor rate change over 250 days74. US_Libor_Chg_250d
+US_10Y_vs_Libor, US 10-year Treasury yield versus Libor.,75. US_10Y_vs_Libor
+US_2Y_vs_Libor, US 2-year Treasury yield versus Libor.,76. US_2Y_vs_Libor
+US_Real_10Y_vs_Libor, US real 10-year Treasury yield versus Libor.,77. US_Real_10Y_vs_Libor
+US_BE_10Y_vs_Libor, US 10-year breakeven inflation rate versus Libor.,78. US_BE_10Y_vs_Libor
+Global_Eco_Surprise, Global economic surprise index.,79. Global_Eco_Surprise
+US_Eco_Surprise, US economic surprise index.,80. US_Eco_Surprise
+EU_Eco_Surprise, EU economic surprise index.,81. EU_Eco_Surprise
+JP_Eco_Surprise, Japanese economic surprise index.,82. JP_Eco_Surprise
+EM_Eco_Surprise, Emerging markets economic surprise index.,83. EM_Eco_Surprise
+China_Eco_Surprise, Chinese economic surprise index.,84. China_Eco_Surprise
+Citi_Macro_Risk_Index, Citi macro risk index.,85. Citi_Macro_Risk_Index
+US_SP_500_Pct_above_200d_MA, Percentage of S&P 500 above 200-day MA.,86. US_SP_500_Pct_above_200d_MA
+US_Nasdaq_100_Pct_above_200d_MA, Percentage of Nasdaq 100 above 200-day MA.,87. US_Nasdaq_100_Pct_above_200d_MA
+US_Russel_2000_Pct_above_200d_MA, Percentage of Russell 2000 above 200-day MA.,88. US_Russel_2000_Pct_above_200d_MA
+EU_Euro_Stoxx_50_Pct_above_200d_MA, Percentage of Euro Stoxx 50 above 200-day MA.,89. EU_Euro_Stoxx_50_Pct_above_200d_MA
+UK_FTSE_100_Pct_above_200d_MA, Percentage of UK FTSE 100 above 200-day MA.,90. UK_FTSE_100_Pct_above_200d_MA
+Japan_Nikkei_225_Pct_above_200d_MA, Percentage of Japan Nikkei 225 above 200-day MA.,91. Japan_Nikkei_225_Pct_above_200d_MA
+MSCI_EM_USD_Pct_above_200d_MA, Percentage of MSCI EM USD above 200-day MA.,92. MSCI_EM_USD_Pct_above_200d_MA
+Risk_Aversion, Measure of market risk aversion.,93. Risk_Aversion
+Risk_Aversion_20d_MA, 20-day moving average of market risk aversion.,94. Risk_Aversion_20d_MA
+Risk_Aversion_60d_MA, 60-day moving average of market risk aversion.,95. Risk_Aversion_60d_MA
+SP_500_EPS_Pct_Chg_20d, S&P 500 earnings per share percentage change over 20 days96. SP_500_EPS_Pct_Chg_20d
+SP_500_EPS_Pct_Chg_120d, S&P 500 earnings per share percentage change over 120 days97. SP_500_EPS_Pct_Chg_120d
+SP_500_EPS_Pct_Chg_250d, S&P 500 earnings per share percentage change over 250 days98. SP_500_EPS_Pct_Chg_250d
+SP_500_Sales_Pct_Chg_20d, S&P 500 sales percentage change over 20 days99. SP_500_Sales_Pct_Chg_20d
+SP_500_Sales_Pct_Chg_120d, S&P 500 sales percentage change over 120 days100. SP_500_Sales_Pct_Chg_120d
+SP_500_Sales_Pct_Chg_250d, S&P 500 sales percentage change over 250 days101. SP_500_Sales_Pct_Chg_250d
+SP_500_PS_Pct_Chg_20d, S&P 500 price-to-sales ratio percentage change over 20 days102. SP_500_PS_Pct_Chg_20d
+SP_500_PS_Pct_Chg_120d, S&P 500 price-to-sales ratio percentage change over 120 days103. SP_500_PS_Pct_Chg_120d
+SP_500_PS_Pct_Chg_250d, S&P 500 price-to-sales ratio percentage change over 250 days104. SP_500_PS_Pct_Chg_250d
+SP_500_PE_Pct_Chg_20d, S&P 500 price-to-earnings ratio percentage change over 20 days105. SP_500_PE_Pct_Chg_20d
+SP_500_PE_Pct_Chg_120d, S&P 500 price-to-earnings ratio percentage change over 120 days106. SP_500_PE_Pct_Chg_120d
+SP_500_PE_Pct_Chg_250d, S&P 500 price-to-earnings ratio percentage change over 250 days107. SP_500_PE_Pct_Chg_250d
+VIX_Curve, Volatility index curve.,108. VIX_Curve
+VIX_20d_MA, 20-day moving average of the VIX (volatility index).,109. VIX_20d_MA
+VIX_60d_MA, 60-day moving average of the VIX (volatility index).,110. VIX_60d_MA
+Put_Call_Ratio, Ratio of put options to call options.,111. Put_Call_Ratio
+Put_Call_Ratio_20d_MA, 20-day moving average of put/call ratio.,112. Put_Call_Ratio_20d_MA
+Put_Call_Ratio_60d_MA, 60-day moving average of put/call ratio.,113. Put_Call_Ratio_60d_MA
+VVIX_Index_Zscore_250d, Z-score of the VVIX index over 250 days114. VVIX_Index_Zscore_250d
+Correl_Equity__Bond_20d, Correlation between equity and bond markets over 20 days115. Correl_Equity__Bond_20d
+Correl_Equity__Bond_60d, Correlation between equity and bond markets over 60 days116. Correl_Equity__Bond_60d
+Correl_Equity__Bond_120d, Correlation between equity and bond markets over 120 days117. Correl_Equity__Bond_120d
+Correl_Equity__Bond_250d, Correlation between equity and bond markets over 250 days118. Correl_Equity__Bond_250d
+US_HY_Sharpe_100d, US high-yield bond Sharpe ratio over 100 days119. US_HY_Sharpe_100d
+US_HY_Sharpe_120d, US high-yield bond Sharpe ratio over 120 days120. US_HY_Sharpe_120d
+US_HY_Sharpe_250d, US high-yield bond Sharpe ratio over 250 days121. US_HY_Sharpe_250d
+US_CDS_HY_Sharpe_100d, US high-yield credit default swap Sharpe ratio over 100 days122. US_CDS_HY_Sharpe_100d
+US_CDS_HY_Sharpe_120d, US high-yield credit default swap Sharpe ratio over 120 days123. US_CDS_HY_Sharpe_120d
+US_CDS_HY_Sharpe_250d, US high-yield credit default swap Sharpe ratio over 250 days124. US_CDS_HY_Sharpe_250d
+EU_HY_Sharpe_100d, EU high-yield bond Sharpe ratio over 100 days125. EU_HY_Sharpe_100d
+EU_HY_Sharpe_120d, EU high-yield bond Sharpe ratio over 120 days126. EU_HY_Sharpe_120d
+EU_HY_Sharpe_250d, EU high-yield bond Sharpe ratio over 250 days127. EU_HY_Sharpe_250d
+EU_Xover_Sharpe_100d, EU crossover bond Sharpe ratio over 100 days128. EU_Xover_Sharpe_100d
+EU_Xover_Sharpe_120d, EU crossover bond Sharpe ratio over 120 days129. EU_Xover_Sharpe_120d
+EU_Xover_Sharpe_250d, EU crossover bond Sharpe ratio over 250 days130. EU_Xover_Sharpe_250d
+Emerging_Bond_Sharpe_100d, Emerging market bond Sharpe ratio over 100 days131. Emerging_Bond_Sharpe_100d
+Emerging_Bond_Sharpe_120d, Emerging market bond Sharpe ratio over 120 days132. Emerging_Bond_Sharpe_120d
+Emerging_Bond_Sharpe_250d, Emerging market bond Sharpe ratio over 250 days133. Emerging_Bond_Sharpe_250d
