@@ -1,6 +1,7 @@
 # train_xgboost_optuna.py
 
 import os
+from matplotlib import dates
 import pandas as pd
 import numpy as np
 import optuna
@@ -25,8 +26,9 @@ test_path = "/home/brice/Documents/PERSONAL_PROJECT/IASD_Kaggle/IASD_Kaggle_HW2/
 TARGET = "ToPredict"
 TIME_COLUMN = "Dates"
 N_SPLITS = 5
-ID = "1.0"
+ID = "2.0"
 load_study = False
+n_trials = 100
 
 target_scaler_path = os.path.join("results", "scalers", "target_scaler.pkl")
 target_scaler = joblib.load(target_scaler_path)
@@ -47,9 +49,12 @@ df = pd.read_csv(DATA_PATH_X)
 y_df = pd.read_csv(DATA_PATH_Y)
 
 # === FEATURES ===
+dates_train = df[TIME_COLUMN]
+
 features = df.columns.tolist()
 X = df[features]
-y = y_df[TARGET]
+X.drop(columns=[TIME_COLUMN], inplace=True)
+y = y_df[TARGET].drop(columns=[TIME_COLUMN])
 
 # === CROSS-VALIDATION SETUP ===
 tscv = TimeSeriesSplit(n_splits=N_SPLITS)
@@ -105,7 +110,7 @@ if load_study:
 else:
     print("Creating a new study.")
     study = optuna.create_study(direction="minimize")
-    study.optimize(objective, n_trials=50)
+    study.optimize(objective, n_trials=n_trials)
 
 print("Best trial:")
 print(study.best_trial)
@@ -150,11 +155,14 @@ print(f"Final model saved to {model_path}")
 
 # === PREDICTIONS ===
 df_test = pd.read_csv(test_path, parse_dates=[TIME_COLUMN])
+dates_test = df_test[TIME_COLUMN]
+
 X_test = df_test[features]
+X_test.drop(columns=[TIME_COLUMN], inplace=True, errors="ignore")
 predictions = stacker.predict(X_test)
 
 predictions_orig = target_scaler.inverse_transform(predictions.reshape(-1, 1)).flatten()
-submission = pd.DataFrame({"ID": df_test["Dates"], "ToPredict": predictions_orig})
+submission = pd.DataFrame({"ID": dates_test, "ToPredict": predictions_orig})
 
 os.makedirs("results/submissions", exist_ok=True)
 submission_path = os.path.join("results", "submissions", f"submission_xgb_{ID}.csv")
